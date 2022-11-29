@@ -12,6 +12,16 @@ The 4 python notebooks in this repository contains information as follows:
 
 The .csv data was gathered from County Public Health Data from various States in the U.S., and obtained by Prof. Gotzler and adapted by the [UNC Research Hub](https://library.unc.edu/hub/) in the Davis Library.
 
+## Navigation
+
+At the top of this repository, there are multile folders containing files.
+
+- In "Python Notebooks," you will find all of the tutorial-based files that introduce you to python as a general programming language, and itroduce you to the pandas package as a tool to use when dealing with data. Lastly, the notebook containing the ediited and indexed data from the County Health Publc Data is located here.
+
+- In "CSV_Data_Files," you will find the County Health Public Data .csv file, and the newly exported Teen County Data file (created from the python notebook)
+
+- In "Visualizations," you will find all of the data representations and you will find the screenshot providing the prior data preparation in excel, further explained later in this respository.
+
 ## Provenance
 
 As mentioned above, the County Public Health Data .csv was obtained through lesson plans adapted by the [UNC Research Hub](https://library.unc.edu/hub/) in the Davis Library.
